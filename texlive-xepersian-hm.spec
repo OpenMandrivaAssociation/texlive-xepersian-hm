@@ -1,6 +1,6 @@
 Name:		texlive-xepersian-hm
 Version:	56272
-Release:	1
+Release:	2
 Summary:	Fixes kashida feature in xepersian package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xepersian-hm
