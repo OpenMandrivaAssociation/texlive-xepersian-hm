@@ -3,7 +3,7 @@ Version:	56272
 Release:	2
 Summary:	Fixes kashida feature in xepersian package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xepersian-hm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xepersian-hm
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xepersian-hm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xepersian-hm.doc.r%{version}.tar.xz
